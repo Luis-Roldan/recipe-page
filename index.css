@@ -26,3 +26,12 @@ section {
   margin-right: auto;
   text-align:start;
 }
+
+.preparation {
+  width: 90%;
+  text-align:start;
+}
+
+.preparation li {
+  padding-left: 30px;
+}
