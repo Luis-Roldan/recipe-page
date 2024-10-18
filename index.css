@@ -6,12 +6,17 @@ body {
 }
 
 section {
-  text-align: center;
+  text-align: start;
   background-color: white;
   width: 50%;
   margin-left: auto;
   margin-right: auto;
   border-radius: 20px;
+
+}
+
+.title {
+  margin: 5%;
 }
 
 .omelette {
@@ -31,6 +36,7 @@ section {
 .preparation {
   width: 90%;
   text-align:start;
+
 }
 
 .preparation li {
