@@ -35,13 +35,13 @@ section {
   text-align:start;
 }
 
-.preparation {
+.list {
   width: 90%;
   text-align:start;
 
 }
 
-.preparation li {
+.list li {
   padding-left: 30px;
   padding-bottom: 10px;
 }
@@ -53,4 +53,6 @@ section {
   margin-right: auto;
   border-radius: 20px;
   padding: 5px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
