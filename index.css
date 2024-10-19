@@ -33,6 +33,8 @@ section {
   margin-left: auto;
   margin-right: auto;
   text-align:start;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .list {
@@ -44,6 +46,10 @@ section {
 .list li {
   padding-left: 30px;
   padding-bottom: 10px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
 }
 
 .preparation_container {
@@ -55,4 +61,8 @@ section {
   padding: 5px;
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+.line {
+  width: 90%;
 }
