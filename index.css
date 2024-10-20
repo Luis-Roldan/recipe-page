@@ -74,3 +74,8 @@ table {
 table thead tr {
   border: 10px solid black;
 }
+
+.preparation {
+  color: hsl(332, 51%, 32%);
+  margin: 5%;
+}
