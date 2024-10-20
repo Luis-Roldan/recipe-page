@@ -77,11 +77,13 @@ table {
   width: 90%;
 }
 
-table thead tr {
-  border: 10px solid black;
-}
+
 
 .preparation {
   color: hsl(332, 51%, 32%);
   margin: 5%;
+}
+
+thead tr:last-child th, thead tr:last-child td {
+  border-bottom: 2px solid black; /* Línea más gruesa al final del header */
 }
