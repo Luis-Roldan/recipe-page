@@ -75,6 +75,9 @@ section {
 
 table {
   width: 90%;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -82,4 +85,9 @@ table {
 .preparation {
 color: hsl(332, 51%, 32%);
   margin: 5%;
+}
+
+th, td {
+  border-bottom: 1px solid black;
+  padding: 10px;
 }
