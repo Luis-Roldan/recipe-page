@@ -90,10 +90,16 @@ color: hsl(332, 51%, 32%);
   margin: 5%;
 }
 
-th, td {
+.table-line {
   border-bottom: 1px solid black;
   padding: 15px;
   text-align: start;
+}
+
+.table-last-line {
+  padding: 15px;
+  text-align: start;
+  padding-bottom: 30px;
 }
 
 td {
