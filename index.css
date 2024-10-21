@@ -20,6 +20,7 @@ section {
   margin: 5%;
   font-family: "Young Serif", serif;
   color: hsl(14, 45%, 36%);
+  font-weight: 300;
 }
 
 .main-title {
