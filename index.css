@@ -26,6 +26,7 @@ section {
 .main-title {
   margin: 5%;
   font-family: "Young Serif", serif;
+  font-weight: 500;
 }
 
 .omelette {
