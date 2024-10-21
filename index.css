@@ -4,6 +4,7 @@ body {
   align-items: center;
   background-color: #f3e5d8;
   font-family: "Outfit", sans-serif;
+  font-size: 13px;
 }
 
 section {
@@ -43,7 +44,7 @@ section {
   text-align:start;
   margin-left: auto;
   margin-right: auto;
-  font-size: small;
+  font-size: 14px;
 }
 
 .list {
