@@ -91,3 +91,8 @@ th, td {
   padding: 15px;
   text-align: start;
 }
+
+td {
+  color: hsl(14, 45%, 36%);
+  font-weight: 800;
+}
