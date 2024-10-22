@@ -110,3 +110,11 @@ td {
 th {
   font-weight: 500;
 }
+/*
+@media screen and (max-width: 480px) {
+  section,
+  .instructions,
+  .ingredients {
+    width: 90%;
+  }
+} */
