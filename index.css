@@ -124,3 +124,8 @@ section,
     width: 90%;
   }
 }
+
+.brown ::marker {
+  color: hsl(14, 45%, 36%);
+  font-weight: 800;
+}
