@@ -111,6 +111,12 @@ th {
   font-weight: 500;
 }
 
+section,
+  .instructions,
+  .ingredients {
+    width: 90%;
+  }
+
 
 @media screen and (max-width: 480px) {
   section,
